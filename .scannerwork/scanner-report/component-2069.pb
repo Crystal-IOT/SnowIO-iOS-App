@@ -1,0 +1,1 @@
+•[Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerBatteryLifetime.h 2cX<hr[Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerBatteryLifetime.h

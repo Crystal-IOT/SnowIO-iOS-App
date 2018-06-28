@@ -1,0 +1,1 @@
+ÜhPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerMotionOnlyBroadcastingEnable.h 2cXOhrhPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerMotionOnlyBroadcastingEnable.h

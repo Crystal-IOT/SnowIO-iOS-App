@@ -1,0 +1,1 @@
+ÚwPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationIBeaconSecureUUIDEnable.h 2cX/hrwPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationIBeaconSecureUUIDEnable.h

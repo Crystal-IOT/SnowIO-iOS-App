@@ -1,0 +1,1 @@
+ßqPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoFirmwareVersion.h 2cX;hrqPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoFirmwareVersion.h

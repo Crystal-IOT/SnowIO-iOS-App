@@ -1,0 +1,1 @@
+¾hPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationPowerSmartPowerModeEnable.h 2cX/hrhPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationPowerSmartPowerModeEnable.h

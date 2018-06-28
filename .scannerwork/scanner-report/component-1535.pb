@@ -1,0 +1,1 @@
+ÿlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEddystoneEIDInterval.h 2cXahrlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEddystoneEIDInterval.h

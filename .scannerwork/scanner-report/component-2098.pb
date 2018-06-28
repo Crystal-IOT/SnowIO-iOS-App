@@ -1,0 +1,1 @@
+²YPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestGetPendingSettings.h 2cX#hrYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestGetPendingSettings.h

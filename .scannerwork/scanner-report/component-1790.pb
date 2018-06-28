@@ -1,0 +1,1 @@
+þPPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestPatchJSON.h 2cXhrPPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestPatchJSON.h

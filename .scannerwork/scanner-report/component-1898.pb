@@ -1,0 +1,1 @@
+êQPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTMonitoringManager.h 2cX¹hrQPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTMonitoringManager.h

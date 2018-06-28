@@ -1,0 +1,1 @@
+×mPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestCancelPendingSettings.h 2cX-hrmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestCancelPendingSettings.h

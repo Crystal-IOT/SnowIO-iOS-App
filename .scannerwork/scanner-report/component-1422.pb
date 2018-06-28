@@ -1,0 +1,1 @@
+ŽkPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingPowerBatteryVoltage.h 2cX;hrkPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingPowerBatteryVoltage.h

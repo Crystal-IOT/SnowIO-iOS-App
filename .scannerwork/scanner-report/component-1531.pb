@@ -1,0 +1,1 @@
+ûpPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEstimoteLocationInterval.h 2cX_hrpPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEstimoteLocationInterval.h

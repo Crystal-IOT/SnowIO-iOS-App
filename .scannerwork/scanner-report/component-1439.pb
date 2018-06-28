@@ -1,0 +1,1 @@
+ŸnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingGenericAdvertiserPower.h 2cX{hrnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingGenericAdvertiserPower.h

@@ -1,0 +1,1 @@
+“APods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthDataResult.h 2cX2hrAPods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthDataResult.h

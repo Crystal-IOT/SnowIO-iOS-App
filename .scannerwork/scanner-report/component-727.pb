@@ -1,0 +1,1 @@
+×>Pods/FirebaseAuth/Firebase/Auth/Source/FIRAdditionalUserInfo.m 2objcXchr>Pods/FirebaseAuth/Firebase/Auth/Source/FIRAdditionalUserInfo.m

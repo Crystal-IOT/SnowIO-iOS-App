@@ -1,0 +1,1 @@
+ßYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTelemetryInfoMagnetometer.h 2cX6hrYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTelemetryInfoMagnetometer.h

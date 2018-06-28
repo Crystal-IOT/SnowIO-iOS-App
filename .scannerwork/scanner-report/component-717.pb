@@ -1,0 +1,1 @@
+Í8Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthSettings.m 2objcXhr8Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthSettings.m

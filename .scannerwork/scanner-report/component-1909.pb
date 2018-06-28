@@ -1,0 +1,1 @@
+õYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableOperationHardware.h 2cX&hrYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableOperationHardware.h

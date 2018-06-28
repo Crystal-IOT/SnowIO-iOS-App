@@ -1,0 +1,1 @@
+ÑePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceFilterBeaconV1.h 2cX4hrePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceFilterBeaconV1.h

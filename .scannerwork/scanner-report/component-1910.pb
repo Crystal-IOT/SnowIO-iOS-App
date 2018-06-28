@@ -1,0 +1,1 @@
+öPPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTFirmwareInfoV4VO.h 2cXhrPPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTFirmwareInfoV4VO.h

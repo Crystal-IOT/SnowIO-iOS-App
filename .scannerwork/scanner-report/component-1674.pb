@@ -1,0 +1,1 @@
+ŠmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTCloudOperationDeviceInfoTags.h 2cX0hrmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTCloudOperationDeviceInfoTags.h

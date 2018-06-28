@@ -1,0 +1,1 @@
+ªUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestRegisterDevice.h 2cX.hrUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestRegisterDevice.h

@@ -1,0 +1,1 @@
+ìaPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingNearableBroadcastingScheme.h 2cXbhraPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingNearableBroadcastingScheme.h

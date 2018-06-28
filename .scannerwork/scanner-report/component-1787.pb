@@ -1,0 +1,1 @@
+ûQPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestFirmwareV4.h 2cXhrQPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestFirmwareV4.h

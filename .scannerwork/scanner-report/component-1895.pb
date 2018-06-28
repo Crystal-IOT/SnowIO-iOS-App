@@ -1,0 +1,1 @@
+çOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsSensors.h 2cX<hrOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsSensors.h

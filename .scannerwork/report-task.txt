@@ -1,0 +1,7 @@
+organization=westfr-github
+projectKey=SnowIO-iOS
+serverUrl=https://sonarcloud.io
+serverVersion=7.3.0.13459
+dashboardUrl=https://sonarcloud.io/dashboard?id=SnowIO-iOS
+ceTaskId=AWRFmEhcHlEhtnAoHFzz
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWRFmEhcHlEhtnAoHFzz

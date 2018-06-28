@@ -1,0 +1,1 @@
+™rPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationEddystoneConfigurationServiceEnable.h 2cX/hrrPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationEddystoneConfigurationServiceEnable.h

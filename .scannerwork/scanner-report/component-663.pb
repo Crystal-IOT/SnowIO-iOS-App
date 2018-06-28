@@ -1,0 +1,1 @@
+—CPods/FirebaseAuth/Firebase/Auth/Source/Public/FirebaseAuthVersion.h 2cXhrCPods/FirebaseAuth/Firebase/Auth/Source/Public/FirebaseAuthVersion.h

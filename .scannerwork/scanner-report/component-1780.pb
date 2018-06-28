@@ -1,0 +1,1 @@
+ô`Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerSmartPowerModeEnable.h 2cXOhr`Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerSmartPowerModeEnable.h

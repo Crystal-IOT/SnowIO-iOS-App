@@ -1,0 +1,1 @@
+¾HSnow IO/Controllers/DataSource/FirebaseDatabase/Models/BeaconModel.swift 2swiftX,hrHSnow IO/Controllers/DataSource/FirebaseDatabase/Models/BeaconModel.swift

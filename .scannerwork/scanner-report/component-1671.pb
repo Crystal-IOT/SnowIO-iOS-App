@@ -1,0 +1,1 @@
+‡jPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableOperationProtocol.h 2cXphrjPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableOperationProtocol.h

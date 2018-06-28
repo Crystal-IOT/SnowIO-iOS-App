@@ -1,0 +1,1 @@
+‰ePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingNearablePower.h 2cXqhrePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingNearablePower.h

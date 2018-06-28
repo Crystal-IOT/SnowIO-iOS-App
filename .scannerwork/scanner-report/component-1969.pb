@@ -1,0 +1,1 @@
+±GPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTrigger.h 2cX?hrGPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTrigger.h

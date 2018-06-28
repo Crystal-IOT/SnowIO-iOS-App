@@ -1,0 +1,1 @@
+ÅBPods/FirebaseCore/Firebase/Core/Public/FIRAnalyticsConfiguration.h 2cX5hrBPods/FirebaseCore/Firebase/Core/Public/FIRAnalyticsConfiguration.h

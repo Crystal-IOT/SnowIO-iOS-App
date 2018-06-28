@@ -1,0 +1,1 @@
+¿(Pods/ObjectMapper/Sources/Mappable.swift 2swiftX‰hr(Pods/ObjectMapper/Sources/Mappable.swift

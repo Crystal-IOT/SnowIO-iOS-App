@@ -1,0 +1,1 @@
+©cPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingsDeviceInfo.h 2cXfhrcPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingsDeviceInfo.h

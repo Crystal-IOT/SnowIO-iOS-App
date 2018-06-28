@@ -1,0 +1,1 @@
+¶	\Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTMonitoringManager.h 2cX¹hr\Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTMonitoringManager.h

@@ -1,0 +1,1 @@
+ØlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSecureBeaconManagerDelegate.h 2cXêhrlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSecureBeaconManagerDelegate.h

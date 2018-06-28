@@ -1,0 +1,1 @@
+ÙgPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTMeshScanReportsManager.h 2cXBhrgPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTMeshScanReportsManager.h

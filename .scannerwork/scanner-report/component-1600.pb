@@ -1,0 +1,1 @@
+ÀbPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestGetDevices.h 2cXThrbPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestGetDevices.h

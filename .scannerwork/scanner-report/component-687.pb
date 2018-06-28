@@ -1,0 +1,1 @@
+¯WPods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/Twitter/FIRTwitterAuthCredential.m 2objcX4hrWPods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/Twitter/FIRTwitterAuthCredential.m

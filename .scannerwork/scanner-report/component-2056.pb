@@ -1,0 +1,1 @@
+ˆVPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTCloudOperationProtocol.h 2cX(hrVPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTCloudOperationProtocol.h

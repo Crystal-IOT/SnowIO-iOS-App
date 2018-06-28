@@ -1,0 +1,1 @@
+ôtPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoIndoorLocationName.h 2cX;hrtPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoIndoorLocationName.h

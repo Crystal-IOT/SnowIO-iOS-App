@@ -1,0 +1,1 @@
+é-Pods/Alamofire/Source/ServerTrustPolicy.swift 2swiftX´hr-Pods/Alamofire/Source/ServerTrustPolicy.swift

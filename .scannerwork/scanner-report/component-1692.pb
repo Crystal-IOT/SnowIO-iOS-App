@@ -1,0 +1,1 @@
+œqPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoDevelopmentMode.h 2cXQhrqPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoDevelopmentMode.h

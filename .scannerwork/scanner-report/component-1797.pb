@@ -1,0 +1,1 @@
+…WPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingDeviceInfoUptime.h 2cX;hrWPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingDeviceInfoUptime.h

@@ -1,0 +1,1 @@
+èQPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTelemetryInfoGPIO.h 2cX0hrQPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTelemetryInfoGPIO.h

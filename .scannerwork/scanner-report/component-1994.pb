@@ -1,0 +1,1 @@
+ÊLPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTCloudManager.h 2cX‘hrLPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTCloudManager.h

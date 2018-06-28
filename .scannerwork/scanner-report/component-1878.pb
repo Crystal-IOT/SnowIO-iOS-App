@@ -1,0 +1,1 @@
+ÖMPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTProximityRule.h 2cX!hrMPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTProximityRule.h

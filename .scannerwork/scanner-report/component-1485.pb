@@ -1,0 +1,1 @@
+ÍiPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceSettingsCollection.h 2cXQhriPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceSettingsCollection.h

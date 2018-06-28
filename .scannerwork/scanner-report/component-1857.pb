@@ -1,0 +1,1 @@
+ÁUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconSettingsManager.h 2cX‘hrUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconSettingsManager.h

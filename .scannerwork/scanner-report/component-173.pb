@@ -1,0 +1,1 @@
+­OSnow IO/Controllers/ScreensControllers/CategoriesActivitiesViewController.swift 2swiftXíhrOSnow IO/Controllers/ScreensControllers/CategoriesActivitiesViewController.swift

@@ -1,0 +1,1 @@
+ãKPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingBase.h 2cXPhrKPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingBase.h

@@ -1,0 +1,1 @@
+½ZPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTEddystone.h 2cXehrZPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTEddystone.h

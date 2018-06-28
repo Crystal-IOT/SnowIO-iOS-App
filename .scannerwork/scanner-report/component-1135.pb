@@ -1,0 +1,1 @@
+ï[Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTAnalyticsManager.h 2cXXhr[Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTAnalyticsManager.h

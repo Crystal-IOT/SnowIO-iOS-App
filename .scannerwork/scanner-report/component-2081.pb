@@ -1,0 +1,1 @@
+¡TPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTCloudSettingProtocol.h 2cXhrTPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTCloudSettingProtocol.h

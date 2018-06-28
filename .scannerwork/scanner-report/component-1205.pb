@@ -1,0 +1,1 @@
+µ	UPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTTimePeriod.h 2cX<hrUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTTimePeriod.h

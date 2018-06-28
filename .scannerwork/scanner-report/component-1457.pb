@@ -1,0 +1,1 @@
+±oPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconSecureUUIDEnable.h 2cXDhroPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconSecureUUIDEnable.h

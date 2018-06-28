@@ -1,0 +1,1 @@
+ÕmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationGPIOPortsData.h 2cX/hrmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationGPIOPortsData.h

@@ -1,0 +1,1 @@
+îrPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTTelemetryNotificationMagnetometer.h 2cX*hrrPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTTelemetryNotificationMagnetometer.h

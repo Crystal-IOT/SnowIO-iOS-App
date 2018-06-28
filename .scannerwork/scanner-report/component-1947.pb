@@ -1,0 +1,1 @@
+›QPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestGetDevices.h 2cXThrQPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestGetDevices.h

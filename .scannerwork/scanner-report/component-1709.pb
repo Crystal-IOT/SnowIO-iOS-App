@@ -1,0 +1,1 @@
+­iPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEddystoneTLMPower.h 2cXnhriPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEddystoneTLMPower.h

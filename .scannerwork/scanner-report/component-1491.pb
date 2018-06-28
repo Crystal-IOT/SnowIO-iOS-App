@@ -1,0 +1,1 @@
+ÓjPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTTelemetryInfoSystemStatus.h 2cX0hrjPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTTelemetryInfoSystemStatus.h

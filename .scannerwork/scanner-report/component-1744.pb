@@ -1,0 +1,1 @@
+ÐiPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSimulatedNearableManager.h 2cXvhriPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSimulatedNearableManager.h

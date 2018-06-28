@@ -1,0 +1,1 @@
+ØYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingSensorsTemperature.h 2cXBhrYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingSensorsTemperature.h

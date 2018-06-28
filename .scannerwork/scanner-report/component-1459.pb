@@ -1,0 +1,1 @@
+³vPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTLocationBeaconBulkUpdateConfiguration.h 2cXBhrvPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTLocationBeaconBulkUpdateConfiguration.h

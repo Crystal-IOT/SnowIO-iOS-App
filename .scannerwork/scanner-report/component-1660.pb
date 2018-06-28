@@ -1,0 +1,1 @@
+üjPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingSensorsTemperature.h 2cXBhrjPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingSensorsTemperature.h

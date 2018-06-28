@@ -1,0 +1,1 @@
+‘JPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableVO.h 2cX)hrJPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableVO.h

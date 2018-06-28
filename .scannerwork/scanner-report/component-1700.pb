@@ -1,0 +1,1 @@
+¤kPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceNotificationProtocol.h 2cX6hrkPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceNotificationProtocol.h

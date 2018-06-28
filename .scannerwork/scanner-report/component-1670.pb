@@ -1,0 +1,1 @@
+†mPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEstimoteLocationPower.h 2cXnhrmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEstimoteLocationPower.h

@@ -1,0 +1,1 @@
+ÅxPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationEstimoteLocationInterval.h 2cX/hrxPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationEstimoteLocationInterval.h

@@ -1,0 +1,1 @@
+ÎdPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTTelemetryInfoMotion.h 2cXMhrdPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTTelemetryInfoMotion.h

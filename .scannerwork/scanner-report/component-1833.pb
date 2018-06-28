@@ -1,0 +1,1 @@
+©TPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNotificationGPIOData.h 2cX+hrTPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNotificationGPIOData.h

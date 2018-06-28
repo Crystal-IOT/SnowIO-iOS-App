@@ -1,0 +1,1 @@
+ŽaPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceUpdateInfo.h 2cX4hraPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceUpdateInfo.h

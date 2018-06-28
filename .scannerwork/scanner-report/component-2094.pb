@@ -1,0 +1,1 @@
+®YPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTMeshNearablesScanResultVO.h 2cXGhrYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTMeshNearablesScanResultVO.h

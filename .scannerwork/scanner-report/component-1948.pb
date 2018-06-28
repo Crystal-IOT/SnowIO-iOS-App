@@ -1,0 +1,1 @@
+œfPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingSensorsMotionNotificationEnable.h 2cXOhrfPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingSensorsMotionNotificationEnable.h

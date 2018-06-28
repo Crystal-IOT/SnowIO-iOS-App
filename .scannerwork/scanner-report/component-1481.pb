@@ -1,0 +1,1 @@
+ÉvPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationPowerBatteryPercentage.h 2cX%hrvPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationPowerBatteryPercentage.h

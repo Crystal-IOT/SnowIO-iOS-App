@@ -1,0 +1,1 @@
+³RPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTPeripheralNearable.h 2cXRhrRPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTPeripheralNearable.h

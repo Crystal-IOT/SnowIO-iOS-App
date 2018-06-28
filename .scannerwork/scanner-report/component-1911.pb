@@ -1,0 +1,1 @@
+÷^Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingIBeaconMotionUUIDEnable.h 2cXGhr^Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingIBeaconMotionUUIDEnable.h

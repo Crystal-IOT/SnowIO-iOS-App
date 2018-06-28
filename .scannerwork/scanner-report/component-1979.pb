@@ -1,0 +1,1 @@
+»RPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableFirmwareVO.h 2cXhrRPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableFirmwareVO.h

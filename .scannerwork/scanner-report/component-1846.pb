@@ -1,0 +1,1 @@
+¶NPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestGetJSON.h 2cXhrNPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestGetJSON.h

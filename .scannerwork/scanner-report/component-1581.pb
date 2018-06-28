@@ -1,0 +1,1 @@
+­yPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationDeviceInfoHardwareVersion.h 2cX%hryPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationDeviceInfoHardwareVersion.h

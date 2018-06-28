@@ -1,0 +1,1 @@
+ÁgPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconRecentUpdateInfo.h 2cX3hrgPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconRecentUpdateInfo.h

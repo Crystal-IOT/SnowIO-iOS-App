@@ -1,0 +1,1 @@
+ÀUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTPeripheral.h 2cX>hrUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTPeripheral.h

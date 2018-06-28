@@ -1,0 +1,1 @@
+©nPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEstimoteLocationEnable.h 2cXDhrnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEstimoteLocationEnable.h

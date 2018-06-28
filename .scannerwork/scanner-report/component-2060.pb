@@ -1,0 +1,1 @@
+ŒSPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestGetNearables.h 2cX1hrSPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestGetNearables.h

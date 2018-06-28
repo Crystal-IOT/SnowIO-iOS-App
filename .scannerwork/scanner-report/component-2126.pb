@@ -1,0 +1,1 @@
+Î2Pods/ObjectMapper/Sources/TransformOperators.swift 2swiftXíhr2Pods/ObjectMapper/Sources/TransformOperators.swift

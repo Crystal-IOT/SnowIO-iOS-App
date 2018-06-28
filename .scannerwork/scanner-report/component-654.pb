@@ -1,0 +1,1 @@
+ŽEPods/FirebaseAuth/Firebase/Auth/Source/Public/FIRGitHubAuthProvider.h 2cX8hrEPods/FirebaseAuth/Firebase/Auth/Source/Public/FIRGitHubAuthProvider.h

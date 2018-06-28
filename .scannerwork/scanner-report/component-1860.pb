@@ -1,0 +1,1 @@
+ÄdPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationGenericAdvertiserData.h 2cX4hrdPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationGenericAdvertiserData.h

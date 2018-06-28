@@ -1,0 +1,1 @@
+ÊmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTFeaturesetEstimoteMonitoring.h 2cXwhrmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTFeaturesetEstimoteMonitoring.h

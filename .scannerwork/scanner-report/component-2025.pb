@@ -1,0 +1,1 @@
+éWPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationProtocol.h 2cXŒhrWPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationProtocol.h

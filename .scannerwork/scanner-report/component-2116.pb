@@ -1,0 +1,1 @@
+Ä,Pods/ObjectMapper/Sources/URLTransform.swift 2swiftXDhr,Pods/ObjectMapper/Sources/URLTransform.swift

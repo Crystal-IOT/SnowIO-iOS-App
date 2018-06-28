@@ -2,6 +2,8 @@
 > IOS application prototype realized during my year of sandwich course (computer developer license).
 
 [![Swift Version][swift-image-4]][swift-url]
+[![Build Status](https://travis-ci.org/WestFR/SnowIO-iOS.svg?branch=master)](https://travis-ci.org/WestFR/SnowIO-iOS)
+[![Sonar Cloud][sonar-image]][sonar-url]
 [![License][license-image]][license-url]
 
 
@@ -16,7 +18,7 @@ This application uses a database to work.
 
 This application requires a network connection to work. It does not collect any personal information.
 
-<img src="informations/screens/1_menu.png" width="250">  <img src="informations/screens/2_home.png" width="250">  <img src="informations/3_map.png" width="250"> <img src="informations/4_mapSearch.png" width="250"> <img src="informations/5_mapStation.png" width="250"> <img src="informations/6_profile.png" width="250">
+<img src="informations/screens/1_menu.png" width="250">  <img src="informations/screens/2_home.png" width="250">  <img src="informations/screens/3_map.png" width="250"> <img src="informations/screens/4_mapSearch.png" width="250"> <img src="informations/screens/5_mapStation.png" width="250"> <img src="informations/screens/6_profile.png" width="250">
 
 
 ## Features
@@ -58,7 +60,7 @@ static let APP_PAGE_URL = "http://emilienleroy.fr/crystal/"
 
 4.Enable authentication via email / password using Firebase menus.
 
-5. Add this file on your FIREBASE database :  https://github.com/WestFR/SnowIO-iOS/informations/data_test.json
+5. Add this file on your FIREBASE database :  https://github.com/WestFR/SnowIO-iOS/blob/master/informations/data_test.json
 
 6. Add this code on your FIREBASE database rules : 
 ```
@@ -101,6 +103,9 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [swift-image-4]:https://img.shields.io/badge/swift-4.0-orange.svg
 [swift-url]: https://swift.org/
+
+[sonar-image]: https://sonarcloud.io/api/project_badges/measure?project=SnowIO-iOS&metric=alert_status
+[sonar-url]: https://sonarcloud.io/dashboard?id=SnowIO-iOS
 
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: LICENSE

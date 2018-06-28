@@ -1,0 +1,1 @@
+‰KPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestBase.h 2cXghrKPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestBase.h

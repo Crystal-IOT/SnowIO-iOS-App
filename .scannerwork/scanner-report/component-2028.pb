@@ -1,0 +1,1 @@
+ìOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingReadOnly.h 2cX#hrOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingReadOnly.h

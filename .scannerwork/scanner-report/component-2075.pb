@@ -1,0 +1,1 @@
+›dPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceSettingsAdvertiserEddystoneTLM.h 2cXhrdPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceSettingsAdvertiserEddystoneTLM.h

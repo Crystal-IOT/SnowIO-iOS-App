@@ -1,0 +1,1 @@
+ðUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestV3GetFirmwares.h 2cX hrUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestV3GetFirmwares.h

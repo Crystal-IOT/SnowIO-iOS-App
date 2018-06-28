@@ -1,0 +1,1 @@
+ŽfPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerScheduledAdvertisingEnable.h 2cXOhrfPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerScheduledAdvertisingEnable.h

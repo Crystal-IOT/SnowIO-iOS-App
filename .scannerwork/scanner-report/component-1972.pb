@@ -1,0 +1,1 @@
+´aPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationSensorsTemperature.h 2cX%hraPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationSensorsTemperature.h

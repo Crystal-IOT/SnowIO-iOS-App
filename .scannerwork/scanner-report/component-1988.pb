@@ -1,0 +1,1 @@
+Ä]Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTelemetryNotificationProtocol.h 2cX+hr]Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTelemetryNotificationProtocol.h

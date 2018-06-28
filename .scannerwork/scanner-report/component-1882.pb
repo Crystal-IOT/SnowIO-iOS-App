@@ -1,0 +1,1 @@
+ÚXPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconBatteryLifetimesVO.h 2cX hrXPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconBatteryLifetimesVO.h

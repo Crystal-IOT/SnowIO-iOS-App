@@ -1,0 +1,1 @@
+®UPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingDeviceInfoTags.h 2cXOhrUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingDeviceInfoTags.h

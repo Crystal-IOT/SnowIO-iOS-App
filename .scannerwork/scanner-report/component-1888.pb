@@ -1,0 +1,1 @@
+àDPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRule.h 2cX&hrDPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRule.h

@@ -1,0 +1,1 @@
+Â^Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableOperationNearablePower.h 2cX/hr^Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableOperationNearablePower.h

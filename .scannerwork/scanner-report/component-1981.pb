@@ -1,0 +1,1 @@
+½NPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTStorageManager.h 2cX:hrNPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTStorageManager.h

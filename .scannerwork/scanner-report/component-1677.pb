@@ -1,0 +1,1 @@
+çnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableOperationIBeaconMajor.h 2cX/hrnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableOperationIBeaconMajor.h

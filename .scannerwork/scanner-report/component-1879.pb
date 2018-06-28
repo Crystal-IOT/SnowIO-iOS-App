@@ -1,0 +1,1 @@
+×`Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingGenericAdvertiserInterval.h 2cXrhr`Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingGenericAdvertiserInterval.h

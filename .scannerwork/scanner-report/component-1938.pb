@@ -1,0 +1,1 @@
+’[Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingConnectivityInterval.h 2cXahr[Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingConnectivityInterval.h

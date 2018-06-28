@@ -1,0 +1,1 @@
+ÈuPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconSecureUUIDPeriodScaler.h 2cXFhruPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconSecureUUIDPeriodScaler.h

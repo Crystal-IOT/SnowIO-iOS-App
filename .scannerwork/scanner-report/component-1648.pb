@@ -1,0 +1,1 @@
+ðhPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableSettingsManager.h 2cXlhrhPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableSettingsManager.h

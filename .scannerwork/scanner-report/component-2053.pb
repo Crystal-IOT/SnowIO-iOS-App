@@ -1,0 +1,1 @@
+…TPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsEddystoneEID.h 2cX2hrTPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsEddystoneEID.h

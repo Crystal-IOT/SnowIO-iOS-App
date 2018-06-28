@@ -1,0 +1,1 @@
+ñcPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingDeviceInfoApplicationVersion.h 2cXLhrcPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingDeviceInfoApplicationVersion.h

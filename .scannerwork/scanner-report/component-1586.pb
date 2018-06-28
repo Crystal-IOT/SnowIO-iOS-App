@@ -1,0 +1,1 @@
+²nPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTCloudOperationDeviceInfoColor.h 2cX0hrnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTCloudOperationDeviceInfoColor.h

@@ -1,0 +1,1 @@
+þhPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEddystoneURLData.h 2cX[hrhPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEddystoneURLData.h

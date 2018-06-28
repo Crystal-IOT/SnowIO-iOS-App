@@ -1,0 +1,1 @@
+™UPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceSettingProtocol.h 2cXMhrUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceSettingProtocol.h

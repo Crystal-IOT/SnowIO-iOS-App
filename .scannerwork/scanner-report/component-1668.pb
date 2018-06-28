@@ -1,0 +1,1 @@
+„oPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestV2DeletePendingSettings.h 2cX3hroPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestV2DeletePendingSettings.h

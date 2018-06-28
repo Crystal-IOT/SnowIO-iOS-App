@@ -1,0 +1,1 @@
+¸UPods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/GitHub/FIRGitHubAuthCredential.h 2cX*hrUPods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/GitHub/FIRGitHubAuthCredential.h

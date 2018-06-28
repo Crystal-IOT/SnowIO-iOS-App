@@ -1,0 +1,1 @@
+¸ePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsEddystoneConfigurationService.h 2cX*hrePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsEddystoneConfigurationService.h

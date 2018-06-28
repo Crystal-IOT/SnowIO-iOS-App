@@ -1,0 +1,1 @@
+µ`Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingDeviceInfoHardwareVersion.h 2cXChr`Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingDeviceInfoHardwareVersion.h

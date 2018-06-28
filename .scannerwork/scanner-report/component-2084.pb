@@ -1,0 +1,1 @@
+¤XPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceSettingsAdvertiser.h 2cXUhrXPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceSettingsAdvertiser.h

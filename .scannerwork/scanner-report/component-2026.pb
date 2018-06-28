@@ -1,0 +1,1 @@
+êcPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationEddystoneURLInterval.h 2cX/hrcPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationEddystoneURLInterval.h

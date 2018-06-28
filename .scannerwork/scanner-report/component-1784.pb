@@ -1,0 +1,1 @@
+øJPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTPeripheral.h 2cX>hrJPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTPeripheral.h

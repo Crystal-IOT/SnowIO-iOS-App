@@ -1,0 +1,1 @@
+„[Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingIBeaconProximityUUID.h 2cXQhr[Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingIBeaconProximityUUID.h

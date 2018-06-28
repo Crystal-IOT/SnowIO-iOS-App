@@ -1,0 +1,1 @@
+„]Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerDarkToSleepEnable.h 2cXOhr]Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerDarkToSleepEnable.h

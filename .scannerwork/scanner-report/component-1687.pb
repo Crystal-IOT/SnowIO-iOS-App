@@ -1,0 +1,1 @@
+—iPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestGetBeaconsDetails.h 2cXdhriPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestGetBeaconsDetails.h

@@ -1,0 +1,1 @@
+ðLPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceShadow.h 2cX@hrLPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceShadow.h

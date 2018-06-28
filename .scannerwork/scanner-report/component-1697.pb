@@ -1,0 +1,1 @@
+¡lPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEddystoneURLInterval.h 2cXbhrlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEddystoneURLInterval.h
