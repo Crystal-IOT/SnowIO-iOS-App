@@ -1,0 +1,121 @@
+/* 
+  Localizables.strings
+  Snow IO
+
+  Created by Steven F. on 18/05/2018.
+  Copyright © 2018 Steven F. All rights reserved.
+*/
+
+/* Login / SignUp Strings */
+"account_valid_email" = "Entrer un email valide.";
+"account_valid_credentials" = "Entrez une information d'identification valide.";
+"account_already_email" = "Un compte existe déjà avec cette email.";
+"account_already_exists" = "Le compte existe déjà avec des informations d'identification différentes.";
+"value_empty" = "Tout les champs sont requis !";
+
+
+/* Password Reset Strings */
+"title_passwordReset" = "Réinitialisation mot de passe";
+"txt_passwordReset" = "Un email contenant le lien pour réinitialiser votre mot de passe viens d'être envoyé !";
+
+
+/* Home Strings */
+"choose_station" = "Choisissez d'abord votre station de ski.";
+"beacon_id" = "Beacon ";
+"empty_home_slope" = "Aucune piste n'est disponible pour cette station.";
+"no_object" = "Aucun équipement disponible pour cette piste de ski.";
+"slope_name" = "Nom de la piste : ";
+"slope_level" = "Niveau de la piste : ";
+
+
+/* Account Strings */
+"account_firstname" = "Nom";
+"account_lastname" = "Prénom";
+"account_email" = "Email";
+"account_password" = "Mot de passe";
+"account_tel" = "Téléphone";
+"account_profile" = "Profil skieur";
+"account_updated" = "Votre compte a été mis à jour avec succès.";
+
+"btn_cancel" = "Annuler";
+"btn_ok" = "Ok";
+"btn_restart" = "Redémarrer";
+"btn_save" = "Sauvegarder";
+"btn_change_password" = "Changer mot de passe";
+
+
+/* Password Strings */
+"current_password"= "Mot de passe actuel";
+"placeholder_password" = "••••••";
+"new_password"= "Nouveau mot de passe";
+"confirm_new_password" = "Confirmer mot de passe";
+"password_change" = "Votre mot de passe à été modifié avec succès.";
+"old_password_not_match" = "Votre ancien mot de passe ne correspond pas à celui enregistré.";
+"pasword_not_match" = "Les mots de passe indiqués ne correspondent pas.";
+
+
+/* Authorizations */
+"gps_authorization_denied" = "Les fonctionnalités liées aux GPS sont désactivés sur votre téléphone. Allez dans les paramètres de l'application pour activer la localisation via GPS.";
+
+
+/* Maps Strings */
+"search_station" = "Rechercher une station...";
+"interest_location" = "Emplacement point d'intéret : ";
+"beacon_name" = "Nom du Beacon : ";
+"beacon_position" = "Emplacement du Beacon : ";
+"friends_position" = " - Emplacement";
+"station_phone" = "Téléphone : ";
+
+
+/* Interests Strings */
+"interest_day_monday" = "Lundi : ";
+"interest_day_tuesday" = "Mardi : ";
+"interest_day_wednesday" = "Mercredi  : ";
+"interest_day_thursday" = "Jeudi : ";
+"interest_day_friday" = "Vendredi : ";
+"interest_day_saturday" = "Samedi : ";
+"interest_day_sunday" = "Dimanche : ";
+"interest_hours" = "Horaires d'ouverture";
+"interest_access" = "Itinéraire / Plan d'accès";
+
+
+/* Utils Strings */
+"activity_title" = "Activité : ";
+"category_title" = "Categorie : ";
+"search_interests" = "Je recherche...";
+
+
+/* Notifications Strings */
+"up_informations" = "Vous avez déclenché le \"Beacon\" en haut de la piste de ski suivante : ";
+"down_informations" = "Vous avez déclenché le \"Beacon\" en bas de la piste de ski suivante : ";
+"up_informations_short" = "Haut de la piste de ski";
+"down_informations_short" = "Bas de la piste de ski";
+
+
+/* Internet Connection Strings */
+"txt_network" = "Erreur de connexion";
+"txt_startNetwork" = "Vous avez besoin d'une connexion Internet pour utiliser cette application. Activez-la et réessayez dans quelques instants.";
+"txt_missNetwork" = "Vous avez perdu votre connexion internet, activez-la et cliquer sur le bouton \"Redémarrer\" pour relancer l'application.";
+
+
+/* App Info Strings */
+"app_info" = "Informations de l'application";
+"app_info_description" = "Veuillez choisir l'action souhaitée pour obtenir les informations de l'application.";
+"error_app_publish" = "L'application n'est pas publiée, donc aucune page du magasin n'est disponible (voir AppDelegate.swift si votre application est publiée).";
+"error_other_description" = "Aucune URL de site Web pour ce développeur n'est définie, voir AppDelegate.swift";
+
+"txt_help" = "Comment utiliser l'app ?";
+"txt_helpPage" = "...";
+"txt_about" = "A propos";
+"txt_rateme" = "Notez moi";
+"txt_others" = "Autres applications";
+"txt_aboutPage" = "...";
+
+
+/* API Strings */
+"api_error_server" = "Désolé, une erreur s'est produite lors de la récupération des données. Veuillez réessayer dans quelques instants. Si l'erreur persiste, veuillez contacter le développeur de l'application.";
+
+
+/* Error Strings */
+"error" = "Erreur";
+"empty_list" = "Aucune données pour cette page !";

@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  Snow IO
+
+  Created by Steven F. on 06/06/2018.
+  Copyright © 2018 Steven F. All rights reserved.
+*/
+
+"NSLocationUsageDescription" = "We use low energy iBeacon devices installed in the different stations to provide you with relevant information. You do not need to open the application to discover the different points of interest of a station.";
+
+"NSLocationWhenInUseUsageDescription" = "We use low energy iBeacon devices installed in the different stations to provide you with relevant information. You do not need to open the application to discover the different points of interest of a station.";
+
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "We use low energy iBeacon devices installed in the different stations to provide you with relevant information. You do not need to open the application to discover the different points of interest of a station.";

@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Line 1\n\nLine 2\n\nLine 3\n\nLine 4\n\nLine 5"; ObjectID = "6Y9-Lw-gP9"; */
+"6Y9-Lw-gP9.text" = "Line 1\n\nLine 2\n\nLine 3\n\nLine 4\n\nLine 5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ArA-rM-kUH"; */
+"ArA-rM-kUH.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Go to map"; ObjectID = "QkY-lu-h2A"; */
+"QkY-lu-h2A.normalTitle" = "Aller à l'écran \"Carte\"";
+
+/* Class = "UITextView"; text = "0102030405"; ObjectID = "ZFv-L8-9FB"; */
+"ZFv-L8-9FB.text" = "0102030405";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bXW-NY-kMC"; */
+"bXW-NY-kMC.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "oMc-Ja-YMi"; */
+"oMc-Ja-YMi.title" = "Accueil";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tWF-LI-pRc"; */
+"tWF-LI-pRc.text" = "Label";
+
+/* Class = "UILabel"; text = "station_name"; ObjectID = "vYE-WO-LdS"; */
+"vYE-WO-LdS.text" = "station_name";

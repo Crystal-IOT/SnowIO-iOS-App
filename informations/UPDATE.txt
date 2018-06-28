@@ -1,0 +1,5 @@
+-- UPDATE --
+
+- Fonction 1 : Add friends research and add it !
+- Fonction 2 : Display Activities only for selected station !
+- Fonction 3 : Center Station on MapKit (homepage)

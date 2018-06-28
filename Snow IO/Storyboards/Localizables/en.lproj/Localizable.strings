@@ -1,0 +1,121 @@
+/*
+ Localizables.strings
+ Snow IO
+ 
+ Created by Steven F. on 18/05/2018.
+ Copyright © 2018 Steven F. All rights reserved.
+ */
+
+/* Login / SignUp Strings */
+"account_valid_email" = "Enter a valid email.";
+"account_valid_credentials" = "Enter a valid credentials.";
+"account_already_email" = "An account already exists with this email.";
+"account_already_exists" = "Account already exists whit different credentials.";
+"value_empty" = "All fields are required !";
+
+
+/* Password Reset Strings */
+"title_passwordReset" = "Reset password";
+"txt_passwordReset" = "An email containing the link to reset your password has just been sent !";
+
+
+/* Home Strings */
+"choose_station" = "Choose your ski station first.";
+"beacon_id" = "Beacon ";
+"empty_home_slope" = "No ski slope are available for this station.";
+"no_object" = "No equipment available for this ski slope";
+"slope_name" = "Slope name : ";
+"slope_level" = "Slope level : ";
+
+
+/* Account Strings */
+"account_firstname" = "First name";
+"account_lastname" = "Last name";
+"account_email" = "Email";
+"account_password" = "Password";
+"account_tel" = "Phone";
+"account_profile" = "Skier profile";
+"account_updated" = "Your account has been successfully updated.";
+
+"btn_cancel" = "Cancel";
+"btn_ok" = "Ok";
+"btn_restart" = "Restart";
+"btn_save" = "Save";
+"btn_change_password" = "Change password";
+
+
+/* Password Strings */
+"current_password"= "Current password";
+"placeholder_password" = "••••••";
+"new_password"= "New password";
+"confirm_new_password" = "Confirm password";
+"password_change" = "Your password has been changed successfully.";
+"old_password_not_match" = "Your old password does not match the one saved.";
+"pasword_not_match" = "The both passwords indicated doesn't match.";
+
+
+/* Authorizations */
+"gps_authorization_denied" = "GPS features are disabled on your phone. Go to the application settings to enable GPS location.";
+
+
+/* Maps Strings */
+"search_station" = "Search a station...";
+"interest_location" = "Interest location : ";
+"beacon_name" = "Beacon name : ";
+"beacon_position" = "Beacon position : ";
+"friends_position" = " - Position";
+"station_phone" = "Phone : ";
+
+
+/* Interests Strings */
+"interest_day_monday" = "Monday : ";
+"interest_day_tuesday" = "Tuesday : ";
+"interest_day_wednesday" = "Wednesday  : ";
+"interest_day_thursday" = "Thursday : ";
+"interest_day_friday" = "Friday : ";
+"interest_day_saturday" = "Saturday : ";
+"interest_day_sunday" = "Sunday : ";
+"interest_hours" = "Opening time";
+"interest_access" = "Directions / Access map";
+
+
+/* Utils Strings */
+"activity_title" = "Activity : ";
+"category_title" = "Category : ";
+"search_interests" = "I search...";
+
+
+/* Notifications Strings */
+"up_informations" = "You have triggered the \"Beacon\" at the top of the following ski slope : ";
+"down_informations" = "You have triggered the \"Beacon\" at the bottom of the following ski slope : ";
+"up_informations_short" = "Top of ski slope";
+"down_informations_short" = "Bottom of ski slope";
+
+
+/* Internet Connection Strings */
+"txt_network" = "Erreur de connexion";
+"txt_startNetwork" = "Vous avez besoin d'une connexion Internet pour utiliser cette application. Activez-la et réessayez dans quelques instants.";
+"txt_missNetwork" = "Vous avez perdu votre connexion internet, activez-la et cliquer sur le bouton \"Redémarrer\" pour relancer l'application.";
+
+
+/* App Info Strings */
+"app_info" = "App informations";
+"app_info_description" = "Please choose the desired action to get the information from the application.";
+"error_app_publish" = "The application is not published so no page of the store is available (see AppDelegate.swift if your app is published).";
+"error_other_description" = "No website URL for this developer is defined, see AppDelegate.swift";
+
+"txt_help" = "How to use this app ?";
+"txt_helpPage" = "...";
+"txt_about" = "About";
+"txt_rateme" = "Rate me";
+"txt_others" = "Others apps";
+"txt_aboutPage" = "...";
+
+
+/* API Strings */
+"api_error_server" = "Sorry, there was an error recovering the data, please try again in a few moments. If the error persists, please contact the developer of the application.";
+
+
+/* Error Strings */
+"error" = "Error";
+"empty_list" = "No datas for this page !";

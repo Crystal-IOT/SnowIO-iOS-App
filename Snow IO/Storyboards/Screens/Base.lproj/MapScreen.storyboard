@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="XxP-2a-vXq">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Navigation items with more than one left or right bar item" minToolsVersion="7.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="J4T-H6-ZCS">
+            <objects>
+                <navigationController id="XxP-2a-vXq" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" largeTitles="YES" id="30h-Ll-dZR">
+                        <rect key="frame" x="0.0" y="20" width="375" height="96"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="22W-PP-IOw" kind="relationship" relationship="rootViewController" id="yiW-ya-RDB"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="gaM-lm-QCz" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-158" y="135"/>
+        </scene>
+        <!--Map-->
+        <scene sceneID="fAS-UE-SZA">
+            <objects>
+                <viewController id="22W-PP-IOw" customClass="MapViewController" customModule="Snow_IO" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="kG3-09-cmO">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" showsUserLocation="YES" translatesAutoresizingMaskIntoConstraints="NO" id="VPB-uD-nod">
+                                <rect key="frame" x="0.0" y="116" width="375" height="551"/>
+                            </mapView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="VPB-uD-nod" firstAttribute="trailing" secondItem="isk-Ov-DBz" secondAttribute="trailing" id="4IE-Ly-MXR"/>
+                            <constraint firstItem="VPB-uD-nod" firstAttribute="leading" secondItem="isk-Ov-DBz" secondAttribute="leading" id="cL3-OO-li2"/>
+                            <constraint firstItem="VPB-uD-nod" firstAttribute="bottom" secondItem="isk-Ov-DBz" secondAttribute="bottom" id="kse-Aq-Pd1"/>
+                            <constraint firstItem="VPB-uD-nod" firstAttribute="top" secondItem="isk-Ov-DBz" secondAttribute="top" id="pWv-nm-VJJ"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="isk-Ov-DBz"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Map" id="sdd-Jq-Uhw">
+                        <barButtonItem key="leftBarButtonItem" image="ic_burger" id="y90-94-ghH">
+                            <connections>
+                                <action selector="menuBtn:" destination="22W-PP-IOw" id="tKB-4L-2Sc"/>
+                            </connections>
+                        </barButtonItem>
+                        <rightBarButtonItems>
+                            <barButtonItem image="ic_more" id="vSc-eF-8Ac">
+                                <connections>
+                                    <action selector="moreBtn:" destination="22W-PP-IOw" id="qi6-8l-keH"/>
+                                </connections>
+                            </barButtonItem>
+                            <barButtonItem image="ic_gps_off" id="71C-Z4-ksZ">
+                                <connections>
+                                    <action selector="locationBtn:" destination="22W-PP-IOw" id="jB3-IF-bbC"/>
+                                </connections>
+                            </barButtonItem>
+                        </rightBarButtonItems>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="gpsButton" destination="71C-Z4-ksZ" id="FaY-xu-FSK"/>
+                        <outlet property="mapView" destination="VPB-uD-nod" id="zCY-1j-28o"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vRA-LR-q46" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="829.60000000000002" y="133.5832083958021"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="ic_burger" width="36" height="36"/>
+        <image name="ic_gps_off" width="36" height="36"/>
+        <image name="ic_more" width="36" height="36"/>
+    </resources>
+</document>

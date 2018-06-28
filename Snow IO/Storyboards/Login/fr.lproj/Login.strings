@@ -1,0 +1,72 @@
+
+/* Class = "UITextField"; placeholder = "Enter your email !"; ObjectID = "2Rb-zc-ZYT"; */
+"2Rb-zc-ZYT.placeholder" = "Entrez votre email !";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "52s-2r-ySg"; */
+"52s-2r-ySg.normalTitle" = "CONNEXIOn";
+
+/* Class = "UITextField"; placeholder = "Confirm your password !"; ObjectID = "6Yn-1f-f6v"; */
+"6Yn-1f-f6v.placeholder" = "Confirmer votre mot de passe !";
+
+/* Class = "UITextField"; placeholder = "Enter your password !"; ObjectID = "6q0-BV-oKr"; */
+"6q0-BV-oKr.placeholder" = "Entrez votre mot de passe !";
+
+/* Class = "UITextField"; placeholder = "Enter your email !"; ObjectID = "84Y-Ik-eJo"; */
+"84Y-Ik-eJo.placeholder" = "Entrez votre email !";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "Aox-yy-vqL"; */
+"Aox-yy-vqL.normalTitle" = "SUIVANT";
+
+/* Class = "UITextField"; placeholder = "Enter your phone !"; ObjectID = "EPH-Mz-tow"; */
+"EPH-Mz-tow.placeholder" = "Entrez votre téléphone !";
+
+/* Class = "UITextField"; placeholder = "Enter your password !"; ObjectID = "HJS-bO-cXN"; */
+"HJS-bO-cXN.placeholder" = "Entrez votre mot de passe !";
+
+/* Class = "UITableViewController"; title = "Your profiles"; ObjectID = "Lx3-HH-w1I"; */
+"Lx3-HH-w1I.title" = "Vos profils";
+
+/* Class = "UILabel"; text = "Complete the informations to register and login to the app."; ObjectID = "M5A-5C-g1x"; */
+"M5A-5C-g1x.text" = "Complétez les informations pour vous inscrire et vous connecter à l'application.";
+
+/* Class = "UINavigationItem"; title = "LOGIN"; ObjectID = "MJW-Lq-kpl"; */
+"MJW-Lq-kpl.title" = "CONNEXION";
+
+/* Class = "UILabel"; text = "Enter your username and your password to login."; ObjectID = "PW6-gS-E24"; */
+"PW6-gS-E24.text" = "Entrez votre email et votre mot de passe pour vous connecter.";
+
+/* Class = "UITextField"; placeholder = "Enter your lastname !"; ObjectID = "R3y-mK-WBm"; */
+"R3y-mK-WBm.placeholder" = "Entrez votre nom";
+
+/* Class = "UIButton"; normalTitle = "Forgot your password ?"; ObjectID = "UaR-me-gG3"; */
+"UaR-me-gG3.normalTitle" = "Mot de passe oublié ?";
+
+/* Class = "UINavigationItem"; title = "Create account"; ObjectID = "VIX-WG-0vx"; */
+"VIX-WG-0vx.title" = "Créer un compte";
+
+/* Class = "UILabel"; text = "Snow.IO"; ObjectID = "cAU-lc-7X7"; */
+"cAU-lc-7X7.text" = "Snow.IO";
+
+/* Class = "UILabel"; text = "Choose your skier profile."; ObjectID = "cVZ-qS-EWd"; */
+"cVZ-qS-EWd.text" = "Choisir votre profil skieur.";
+
+/* Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "dbv-vw-whi"; */
+"dbv-vw-whi.normalTitle" = "Réinitialiser mot de passe";
+
+/* Class = "UINavigationItem"; title = "Password Reset"; ObjectID = "fTz-hw-EdG"; */
+"fTz-hw-EdG.title" = "Réinitialisation mot de passe";
+
+/* Class = "UITextField"; placeholder = "Enter your firstname !"; ObjectID = "h7e-Qx-9CI"; */
+"h7e-Qx-9CI.placeholder" = "Entrez votre prénom !";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "iPa-3c-Fru"; */
+"iPa-3c-Fru.normalTitle" = "INSCRIPTION";
+
+/* Class = "UITextField"; placeholder = "Enter your email !"; ObjectID = "iqe-s9-ONc"; */
+"iqe-s9-ONc.placeholder" = "Entrez votre email !";
+
+/* Class = "UIBarButtonItem"; title = "SIGN UP"; ObjectID = "yF8-2c-Ry4"; */
+"yF8-2c-Ry4.title" = "INSCRIPTION";
+
+/* Class = "UILabel"; text = "Please enter your email to reset your password."; ObjectID = "zLA-mX-JU8"; */
+"zLA-mX-JU8.text" = "Merci de renseigner votre email pour réinitialiser votre mot de passe.";

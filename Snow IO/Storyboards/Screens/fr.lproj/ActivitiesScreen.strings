@@ -1,0 +1,36 @@
+
+/* Class = "UITextView"; text = "field_value"; ObjectID = "3M6-Yv-CCh"; */
+"3M6-Yv-CCh.text" = "field_value";
+
+/* Class = "UILabel"; text = "field_name"; ObjectID = "8Su-U0-tJA"; */
+"8Su-U0-tJA.text" = "field_name";
+
+/* Class = "UINavigationItem"; title = "Categories"; ObjectID = "LQ3-Gf-Qds"; */
+"LQ3-Gf-Qds.title" = "Catégories";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LYa-ZG-3gN"; */
+"LYa-ZG-3gN.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LgU-42-6FU"; */
+"LgU-42-6FU.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "P3k-fl-jBh"; */
+"P3k-fl-jBh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TTQ-fn-WaW"; */
+"TTQ-fn-WaW.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Activities"; ObjectID = "WXI-SU-j8K"; */
+"WXI-SU-j8K.title" = "Activités";
+
+/* Class = "UILabel"; text = "Monday\nTuesday\nWesnesday\nThursday\nFriday\nSaturday"; ObjectID = "bfr-Ec-5J1"; */
+"bfr-Ec-5J1.text" = "Lundi\nMardi\nMercredi\nJeudi\nVendredi\nSamedi";
+
+/* Class = "UINavigationItem"; title = "Activity"; ObjectID = "hWN-GB-aLd"; */
+"hWN-GB-aLd.title" = "Activité";
+
+/* Class = "UILabel"; text = "field_name"; ObjectID = "ije-VA-PMW"; */
+"ije-VA-PMW.text" = "field_name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wfv-s4-33V"; */
+"wfv-s4-33V.text" = "Label";

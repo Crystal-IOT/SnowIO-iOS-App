@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="JzG-Kq-cVa">
+    <device id="retina5_9" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Friends-->
+        <scene sceneID="mcL-yk-F3H">
+            <objects>
+                <tableViewController id="Xfq-5E-4iA" customClass="FriendsViewController" customModule="Snow_IO" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="l1h-TX-uyE">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="none" indentationWidth="10" reuseIdentifier="friendsCell" rowHeight="70" id="7UJ-hN-HPG" customClass="friendsCell" customModule="Snow_IO" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="28" width="375" height="70"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="7UJ-hN-HPG" id="fWw-gT-dnf">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="69.666666666666671"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Username" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VMD-gB-UAx">
+                                            <rect key="frame" x="148" y="24" width="79" height="21"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="username_little" adjustsImageSizeForAccessibilityContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="UWe-bX-O41" customClass="imageCircleView" customModule="Snow_IO" customModuleProvider="target">
+                                            <rect key="frame" x="16" y="13.666666666666664" width="42" height="42"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="42" id="P6J-rR-0o8"/>
+                                                <constraint firstAttribute="width" constant="42" id="X7Y-7F-Cu5"/>
+                                            </constraints>
+                                        </imageView>
+                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jAF-U8-7dQ">
+                                            <rect key="frame" x="332" y="20" width="27" height="30"/>
+                                            <state key="normal" image="position"/>
+                                        </button>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstItem="VMD-gB-UAx" firstAttribute="centerY" secondItem="fWw-gT-dnf" secondAttribute="centerY" id="1Hm-2h-kG6"/>
+                                        <constraint firstItem="jAF-U8-7dQ" firstAttribute="trailing" secondItem="fWw-gT-dnf" secondAttribute="trailingMargin" id="FcA-br-mpp"/>
+                                        <constraint firstItem="jAF-U8-7dQ" firstAttribute="top" secondItem="fWw-gT-dnf" secondAttribute="topMargin" constant="9" id="Q7S-bj-GBA"/>
+                                        <constraint firstItem="UWe-bX-O41" firstAttribute="centerY" secondItem="VMD-gB-UAx" secondAttribute="centerY" id="YqV-mT-eJF"/>
+                                        <constraint firstItem="UWe-bX-O41" firstAttribute="leading" secondItem="fWw-gT-dnf" secondAttribute="leadingMargin" id="gbS-wL-1vv"/>
+                                        <constraint firstAttribute="bottomMargin" secondItem="jAF-U8-7dQ" secondAttribute="bottom" constant="9" id="lZ7-gD-2Zc"/>
+                                        <constraint firstItem="UWe-bX-O41" firstAttribute="centerY" secondItem="jAF-U8-7dQ" secondAttribute="centerY" id="qF1-1E-5em"/>
+                                        <constraint firstItem="VMD-gB-UAx" firstAttribute="centerX" secondItem="fWw-gT-dnf" secondAttribute="centerX" id="vjv-jD-nne"/>
+                                    </constraints>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="friendName" destination="VMD-gB-UAx" id="ufa-TH-vzy"/>
+                                    <outlet property="friendPosition" destination="jAF-U8-7dQ" id="Mwo-Zi-GVH"/>
+                                    <outlet property="usernameImage" destination="UWe-bX-O41" id="NfQ-mL-AGk"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="Xfq-5E-4iA" id="AQd-Vr-Gmv"/>
+                            <outlet property="delegate" destination="Xfq-5E-4iA" id="nyN-Hq-u4w"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="Friends" id="aXC-q8-nyd">
+                        <barButtonItem key="leftBarButtonItem" image="ic_burger" id="vdK-Ry-ggC">
+                            <connections>
+                                <action selector="menuBtn:" destination="Xfq-5E-4iA" id="RIG-0L-VC1"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem key="rightBarButtonItem" image="ic_more" id="IRS-Hq-S4n">
+                            <connections>
+                                <action selector="moreBtn:" destination="Xfq-5E-4iA" id="X0N-aW-aA5"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <connections>
+                        <segue destination="nQS-kM-nl6" kind="showDetail" identifier="mapSegue" animates="NO" id="zXP-rT-o6o"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dgG-3P-BZa" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-109.59999999999999" y="19.340329835082461"/>
+        </scene>
+        <!--Main-->
+        <scene sceneID="JWb-6E-0f1">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Main" id="nQS-kM-nl6" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vvW-pF-w5U" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="655" y="-129"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="2XU-gb-Fig">
+            <objects>
+                <navigationController id="JzG-Kq-cVa" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" largeTitles="YES" id="2XI-6l-uAq">
+                        <rect key="frame" x="0.0" y="44" width="375" height="96"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="Xfq-5E-4iA" kind="relationship" relationship="rootViewController" id="smk-n1-crx"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="YD4-iM-k5U" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1061" y="20"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="ic_burger" width="36" height="36"/>
+        <image name="ic_more" width="36" height="36"/>
+        <image name="position" width="27" height="30"/>
+        <image name="username_little" width="42" height="41"/>
+    </resources>
+</document>

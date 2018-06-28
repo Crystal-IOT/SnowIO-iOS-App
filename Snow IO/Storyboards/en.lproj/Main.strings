@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "Menu"; ObjectID = "0v8-3p-hPX"; */
+"0v8-3p-hPX.title" = "Menu";
+
+/* Class = "UILabel"; text = "HOME"; ObjectID = "ErL-Rb-FUW"; */
+"ErL-Rb-FUW.text" = "Home";
+
+/* Class = "UILabel"; text = "PROFILE"; ObjectID = "T4S-A3-5mu"; */
+"T4S-A3-5mu.text" = "Profile";
+
+/* Class = "UILabel"; text = "ACTIVITIES"; ObjectID = "bz6-1n-yHS"; */
+"bz6-1n-yHS.text" = "Activities";
+
+/* Class = "UILabel"; text = "FRIENDS"; ObjectID = "mxf-cK-hb6"; */
+"mxf-cK-hb6.text" = "Friends";
+
+/* Class = "UILabel"; text = "MAP"; ObjectID = "t4w-Ua-01d"; */
+"t4w-Ua-01d.text" = "Map";
+
+/* Class = "UILabel"; text = "LOG OUT"; ObjectID = "tPp-Zn-qV1"; */
+"tPp-Zn-qV1.text" = "Logout";

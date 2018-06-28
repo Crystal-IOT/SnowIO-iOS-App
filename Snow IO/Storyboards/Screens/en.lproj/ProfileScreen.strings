@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6c8-L9-Jvs"; */
+"6c8-L9-Jvs.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8ij-Mh-slN"; */
+"8ij-Mh-slN.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "B8q-MP-yoR"; */
+"B8q-MP-yoR.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "field_value"; ObjectID = "DE4-WO-p4x"; */
+"DE4-WO-p4x.placeholder" = "field_value";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MzY-We-3Xw"; */
+"MzY-We-3Xw.text" = "Label";
+
+/* Class = "UILabel"; text = "field_name"; ObjectID = "QeX-A0-ECN"; */
+"QeX-A0-ECN.text" = "field_name";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "WAB-sR-65P"; */
+"WAB-sR-65P.title" = "Profile";
+
+/* Class = "UILabel"; text = "field_value"; ObjectID = "bbc-9X-MUN"; */
+"bbc-9X-MUN.text" = "field_value";
+
+/* Class = "UITableViewController"; title = "Profile skier"; ObjectID = "hzO-xD-PQd"; */
+"hzO-xD-PQd.title" = "Profile skier";
+
+/* Class = "UITextField"; placeholder = "field_value"; ObjectID = "lyl-hS-Xhf"; */
+"lyl-hS-Xhf.placeholder" = "field_value";
+
+/* Class = "UILabel"; text = "field_name"; ObjectID = "lzY-KU-w0l"; */
+"lzY-KU-w0l.text" = "field_name";
+
+/* Class = "UILabel"; text = "field_name"; ObjectID = "qwo-d4-dTb"; */
+"qwo-d4-dTb.text" = "field_name";
+
+/* Class = "UITableViewController"; title = "Change password"; ObjectID = "tGd-k8-Tfb"; */
+"tGd-k8-Tfb.title" = "Change password";

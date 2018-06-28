@@ -1,0 +1,23 @@
+language: swift
+
+osx_image: xcode9.4
+
+xcode_workspace: Snow IO.xcworkspace
+xcode_scheme: Snow IO
+xcode_sdk: iphonesimulator11.4
+
+addons:
+  sonarcloud:
+    organization: westfr-github
+    token:
+      secure: egHtpkgwtUjGjvvC88QCIsVe/8JJDNSfpoSanUdlSYrLbVePmGudqWgpOfUAaeZ9Lo7oCxP+pu8upLZZJ0cDlSgx0nN52OhidfxdS3LsNA6tc8vmKM0bfpIEZoRFaOZ4jvBEKM84Ai0yx1WQzFOSNrljIF6QGcNc3lGrjHA41j9nl9zcb1axfonvTZvX2uA4DUY6btnFRD7EDmR833Y/cCIGwjk4dpt+d8S2mPLTas7W7CF3Cy6n3rd0U3wvXnSFnftn+sDA1k+rQYDd7LuVcQ0nCHes927+r+Ppfz9rd0RM2oZ15M/MSZ+yHVNrizdcxEnB9+d4SEtD5ZwVZqdcS4fqc4FT7Fu60KvPw53MVOCwfjJ7IfBC19o3s9YIeddpLdYFat8xOArOObHAtBCtmz5Vbu4n2/RGTruZBEhdvylm6t2COfyLUlz/7ELRgqshboxlCSjidzvAcFdfoloRHl6nhXLk6bK+KHKTIiV8+TrlJ17RD4TEbmxPoIFNQLfore3yABWB7kL3g9+DVqS6UeNL3SzoagHk7M01+EQIhWfKS2hLlr97liuY5JiRfRAydAAq0sXGsevTq/G8vgq+527Ci3jgtSU165jx6d0FeanNSErN4Jyne2YDrZUn0TLlvZZNnAhy0UhjFnx5tsz+L6VRpiFLD1jTXYiSV+Csv+E=
+
+before_install:
+  - chmod +x travis/before_script.sh
+  - chmod +x travis/script.sh
+
+before_script: travis/before_script.sh
+
+script:
+  - travis/script.sh
+  - sonar-scanner
