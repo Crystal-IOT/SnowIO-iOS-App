@@ -1,1 +1,0 @@
-¾gPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconInterval.h 2cXahrgPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconInterval.h

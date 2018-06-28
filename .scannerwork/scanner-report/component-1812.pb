@@ -1,1 +1,0 @@
-îTPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceLocationBeacon.h 2cXÅhrTPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceLocationBeacon.h

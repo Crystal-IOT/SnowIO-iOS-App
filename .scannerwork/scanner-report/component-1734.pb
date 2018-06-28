@@ -1,1 +1,0 @@
-ÆePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTCloudSettingProtocol.h 2cXhrePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTCloudSettingProtocol.h

@@ -1,1 +1,0 @@
-²hPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoUptime.h 2cX;hrhPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoUptime.h

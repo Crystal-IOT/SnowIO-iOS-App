@@ -1,1 +1,0 @@
-šlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableOperationMotionOnly.h 2cX0hrlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableOperationMotionOnly.h

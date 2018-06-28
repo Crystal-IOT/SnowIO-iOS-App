@@ -1,1 +1,0 @@
-¢	XPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTProximityRule.h 2cX!hrXPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTProximityRule.h

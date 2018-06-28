@@ -1,1 +1,0 @@
-ºSPods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/GitHub/FIRGitHubAuthProvider.m 2objcX%hrSPods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/GitHub/FIRGitHubAuthProvider.m

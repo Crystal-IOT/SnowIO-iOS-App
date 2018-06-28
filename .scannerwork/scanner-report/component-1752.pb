@@ -1,1 +1,0 @@
-Ø^Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTGPIOPortsData.h 2cXchr^Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTGPIOPortsData.h

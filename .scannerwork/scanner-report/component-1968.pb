@@ -1,1 +1,0 @@
-°OPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTemperatureRule.h 2cX$hrOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTemperatureRule.h

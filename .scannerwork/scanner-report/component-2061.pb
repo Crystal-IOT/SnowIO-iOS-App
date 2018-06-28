@@ -1,1 +1,0 @@
-ç]Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceNearableSettingProtocol.h 2cXhr]Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceNearableSettingProtocol.h

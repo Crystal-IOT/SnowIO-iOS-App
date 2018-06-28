@@ -1,1 +1,0 @@
-½[Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingEddystoneTLMInterval.h 2cX]hr[Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingEddystoneTLMInterval.h

@@ -1,1 +1,0 @@
-ý|Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationDeviceInfoApplicationVersion.h 2cX%hr|Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationDeviceInfoApplicationVersion.h

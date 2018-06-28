@@ -1,1 +1,0 @@
-ˆ\Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingBase.h 2cXPhr\Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingBase.h

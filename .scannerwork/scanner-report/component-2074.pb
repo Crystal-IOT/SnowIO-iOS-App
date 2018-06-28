@@ -1,1 +1,0 @@
-šVPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingIBeaconInterval.h 2cXahrVPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingIBeaconInterval.h

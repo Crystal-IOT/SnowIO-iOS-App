@@ -1,1 +1,0 @@
-‰WPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeacon.h 2cXhhrWPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeacon.h

@@ -1,1 +1,0 @@
-Ó%Pods/Pulsator/Pulsator/Pulsator.swift 2swiftX‰hr%Pods/Pulsator/Pulsator/Pulsator.swift

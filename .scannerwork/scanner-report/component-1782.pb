@@ -1,1 +1,0 @@
-ögPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerMotionOnlyBroadcastingDelay.h 2cX`hrgPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingPowerMotionOnlyBroadcastingDelay.h

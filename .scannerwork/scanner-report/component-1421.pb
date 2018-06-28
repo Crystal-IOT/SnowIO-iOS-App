@@ -1,1 +1,0 @@
-çnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingPowerFlipToSleepEnable.h 2cXOhrnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingPowerFlipToSleepEnable.h

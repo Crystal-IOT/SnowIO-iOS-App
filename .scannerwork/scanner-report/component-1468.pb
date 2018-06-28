@@ -1,1 +1,0 @@
-¼bPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceConnectable.h 2cXyhrbPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceConnectable.h

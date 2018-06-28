@@ -1,1 +1,0 @@
-åRPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsDeviceInfo.h 2cXfhrRPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsDeviceInfo.h

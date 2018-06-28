@@ -1,1 +1,0 @@
-šMPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceManager.h 2cXŠhrMPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceManager.h

@@ -1,1 +1,0 @@
-Ã^Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingsPower.h 2cXfhr^Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingsPower.h

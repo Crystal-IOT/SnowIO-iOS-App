@@ -1,1 +1,0 @@
-ÙXPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingIBeaconMotionUUID.h 2cXEhrXPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingIBeaconMotionUUID.h

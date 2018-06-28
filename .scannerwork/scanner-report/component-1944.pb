@@ -1,1 +1,0 @@
-˜YPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestV2GetDeviceDetails.h 2cX7hrYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestV2GetDeviceDetails.h

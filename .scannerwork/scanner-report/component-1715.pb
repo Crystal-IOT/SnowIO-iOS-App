@@ -1,1 +1,0 @@
-³dPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableDefinitions.h 2cXwhrdPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableDefinitions.h

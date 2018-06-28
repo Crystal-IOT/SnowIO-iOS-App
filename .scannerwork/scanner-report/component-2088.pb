@@ -1,1 +1,0 @@
-¨PPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingOperation.h 2cX\hrPPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingOperation.h

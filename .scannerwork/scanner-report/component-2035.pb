@@ -1,1 +1,0 @@
-óOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingProtocol.h 2cX,hrOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingProtocol.h

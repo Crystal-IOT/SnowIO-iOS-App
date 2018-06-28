@@ -1,1 +1,0 @@
-–yPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationGenericAdvertiserInterval.h 2cX4hryPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationGenericAdvertiserInterval.h

@@ -1,1 +1,0 @@
-ðJPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTMotionRule.h 2cXhrJPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTMotionRule.h

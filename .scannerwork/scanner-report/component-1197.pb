@@ -1,1 +1,0 @@
-­	bPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTNotificationTransporter.h 2cX±hrbPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTNotificationTransporter.h

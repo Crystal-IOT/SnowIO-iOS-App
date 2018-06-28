@@ -1,1 +1,0 @@
-“rPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingNearableBroadcastingScheme.h 2cXbhrrPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingNearableBroadcastingScheme.h

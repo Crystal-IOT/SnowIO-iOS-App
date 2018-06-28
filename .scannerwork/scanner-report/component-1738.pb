@@ -1,1 +1,0 @@
-ÊiPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceSettingsAdvertiser.h 2cXUhriPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceSettingsAdvertiser.h

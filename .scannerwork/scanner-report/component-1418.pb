@@ -1,1 +1,0 @@
-ŠmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationIBeaconEnable.h 2cX/hrmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationIBeaconEnable.h

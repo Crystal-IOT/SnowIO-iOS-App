@@ -1,1 +1,0 @@
-ÕPPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTEddystoneManager.h 2cXehrPPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTEddystoneManager.h

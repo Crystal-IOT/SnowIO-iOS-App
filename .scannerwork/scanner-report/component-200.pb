@@ -1,1 +1,0 @@
-ÈJSnow IO/Controllers/DataSource/FirebaseDatabase/Models/SkiSlopeModel.swift 2swiftX;hrJSnow IO/Controllers/DataSource/FirebaseDatabase/Models/SkiSlopeModel.swift

@@ -1,1 +1,0 @@
-‘MPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceDetails.h 2cXYhrMPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceDetails.h

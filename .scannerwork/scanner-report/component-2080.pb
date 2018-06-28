@@ -1,1 +1,0 @@
- ^Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationIBeaconInterval.h 2cX/hr^Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationIBeaconInterval.h

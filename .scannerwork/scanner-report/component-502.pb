@@ -1,1 +1,0 @@
-ö-Pods/Target Support Files/GoogleToolboxForMac :õør-Pods/Target Support Files/GoogleToolboxForMac

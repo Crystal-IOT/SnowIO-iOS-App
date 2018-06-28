@@ -1,1 +1,0 @@
-«dPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTMonitoringV2Manager.h 2cXØhrdPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTMonitoringV2Manager.h

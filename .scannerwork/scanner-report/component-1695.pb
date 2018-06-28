@@ -1,1 +1,0 @@
-ŸiPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingConnectivityPower.h 2cXlhriPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingConnectivityPower.h

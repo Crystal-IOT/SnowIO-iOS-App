@@ -1,1 +1,0 @@
-“WPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestGetDeviceDetails.h 2cX6hrWPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTRequestGetDeviceDetails.h

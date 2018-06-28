@@ -1,1 +1,0 @@
-»UPods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/GitHub/FIRGitHubAuthCredential.m 2objcX2hrUPods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/GitHub/FIRGitHubAuthCredential.m

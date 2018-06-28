@@ -1,1 +1,0 @@
-’OPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsIBeacon.h 2cXfhrOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsIBeacon.h

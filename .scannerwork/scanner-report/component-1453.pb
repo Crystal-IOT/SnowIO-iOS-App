@@ -1,1 +1,0 @@
-­oPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestGetBeaconsPublicDetails.h 2cXMhroPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestGetBeaconsPublicDetails.h

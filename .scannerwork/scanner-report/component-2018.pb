@@ -1,1 +1,0 @@
-âYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableOperationProtocol.h 2cXphrYPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableOperationProtocol.h

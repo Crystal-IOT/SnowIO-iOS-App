@@ -1,1 +1,0 @@
-žMPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsPower.h 2cXfhrMPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsPower.h

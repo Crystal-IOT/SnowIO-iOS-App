@@ -1,1 +1,0 @@
-¯]Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableRule.h 2cXBhr]Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableRule.h

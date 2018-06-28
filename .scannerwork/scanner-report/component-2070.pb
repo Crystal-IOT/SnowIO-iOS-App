@@ -1,1 +1,0 @@
-–XPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTelemetryInfoTemperature.h 2cX)hrXPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTelemetryInfoTemperature.h

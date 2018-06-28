@@ -1,1 +1,0 @@
-ÅRPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconRecentConfig.h 2cXjhrRPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconRecentConfig.h

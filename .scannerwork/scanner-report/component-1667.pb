@@ -1,1 +1,0 @@
-ƒzPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoIndoorLocationIdentifier.h 2cX;hrzPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoIndoorLocationIdentifier.h

@@ -1,1 +1,0 @@
-·XPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTFeaturesetBackgroundMode.h 2cXqhrXPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTFeaturesetBackgroundMode.h

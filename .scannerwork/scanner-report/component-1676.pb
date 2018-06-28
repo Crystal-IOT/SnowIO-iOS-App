@@ -1,1 +1,0 @@
-ŒcPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestBeaconColor.h 2cXWhrcPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestBeaconColor.h

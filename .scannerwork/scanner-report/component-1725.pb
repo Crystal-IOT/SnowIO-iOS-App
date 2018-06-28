@@ -1,1 +1,0 @@
-½`Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableManager.h 2cXæhr`Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTNearableManager.h

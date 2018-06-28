@@ -1,1 +1,0 @@
-Ö+Pods/ObjectMapper/Sources/TransformOf.swift 2swiftX1hr+Pods/ObjectMapper/Sources/TransformOf.swift

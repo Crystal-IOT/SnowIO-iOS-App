@@ -1,1 +1,0 @@
-ÏdPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconPower.h 2cXohrdPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconPower.h

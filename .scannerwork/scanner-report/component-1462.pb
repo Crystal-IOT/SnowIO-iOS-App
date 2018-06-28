@@ -1,1 +1,0 @@
-¶lPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingShakeToConnectEnable.h 2cXFhrlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingShakeToConnectEnable.h

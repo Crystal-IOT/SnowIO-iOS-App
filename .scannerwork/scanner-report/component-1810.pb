@@ -1,1 +1,0 @@
-’UPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTPeripheralTypeUtility.h 2cXºhrUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTPeripheralTypeUtility.h

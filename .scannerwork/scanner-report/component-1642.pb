@@ -1,1 +1,0 @@
-êePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingsConnectivity.h 2cX7hrePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingsConnectivity.h

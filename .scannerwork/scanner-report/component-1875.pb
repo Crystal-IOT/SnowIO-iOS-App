@@ -1,1 +1,0 @@
-ÓePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationPowerFlipToSleepEnable.h 2cX/hrePods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationPowerFlipToSleepEnable.h

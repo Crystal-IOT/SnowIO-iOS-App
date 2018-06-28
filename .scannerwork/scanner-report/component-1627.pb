@@ -1,1 +1,0 @@
-ÛsPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationSensorsAmbientLight.h 2cX%hrsPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationSensorsAmbientLight.h

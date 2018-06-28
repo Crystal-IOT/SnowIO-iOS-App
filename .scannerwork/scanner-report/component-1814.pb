@@ -1,1 +1,0 @@
-–QPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceConnectable.h 2cXyhrQPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDeviceConnectable.h

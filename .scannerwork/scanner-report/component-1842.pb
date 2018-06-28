@@ -1,1 +1,0 @@
-²LPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsGPIO.h 2cXEhrLPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingsGPIO.h

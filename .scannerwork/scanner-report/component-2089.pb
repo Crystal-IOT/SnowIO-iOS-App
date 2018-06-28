@@ -1,1 +1,0 @@
-©XPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSimulatedNearableManager.h 2cXvhrXPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSimulatedNearableManager.h

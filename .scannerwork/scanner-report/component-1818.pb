@@ -1,1 +1,0 @@
-šPPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconUpdateInfo.h 2cX‰hrPPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconUpdateInfo.h

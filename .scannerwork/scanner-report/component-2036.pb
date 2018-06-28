@@ -1,1 +1,0 @@
-ôOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBluetoothBeacon.h 2cXhrOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBluetoothBeacon.h

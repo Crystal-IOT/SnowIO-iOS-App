@@ -1,1 +1,0 @@
-¡yPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceSettingsAdvertiserEstimoteLocation.h 2cXhryPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceSettingsAdvertiserEstimoteLocation.h

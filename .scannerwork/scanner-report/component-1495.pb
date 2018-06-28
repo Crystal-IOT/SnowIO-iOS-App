@@ -1,1 +1,0 @@
-×iPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEddystoneURLPower.h 2cXnhriPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEddystoneURLPower.h

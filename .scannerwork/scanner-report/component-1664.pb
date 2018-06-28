@@ -1,1 +1,0 @@
-€iPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconMotionUUID.h 2cXEhriPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconMotionUUID.h

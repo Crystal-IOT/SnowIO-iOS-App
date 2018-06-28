@@ -1,1 +1,0 @@
-Ï1Pods/ObjectMapper/Sources/ImmutableMappable.swift 2swiftX¾hr1Pods/ObjectMapper/Sources/ImmutableMappable.swift

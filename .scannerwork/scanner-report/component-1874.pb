@@ -1,1 +1,0 @@
-ÒjPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationDeviceInfoBootloaderVersion.h 2cX%hrjPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationDeviceInfoBootloaderVersion.h

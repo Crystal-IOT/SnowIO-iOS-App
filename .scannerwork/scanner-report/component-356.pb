@@ -1,1 +1,0 @@
-‰*Pods/Alamofire/Source/SessionManager.swift 2swiftXÅhr*Pods/Alamofire/Source/SessionManager.swift

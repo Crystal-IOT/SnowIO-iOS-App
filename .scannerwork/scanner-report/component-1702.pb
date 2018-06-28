@@ -1,1 +1,0 @@
-¦tPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationConnectivityInterval.h 2cX/hrtPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationConnectivityInterval.h

@@ -1,1 +1,0 @@
-×`Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTelemetryNotificationTemperature.h 2cX*hr`Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTTelemetryNotificationTemperature.h

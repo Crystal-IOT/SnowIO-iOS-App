@@ -1,1 +1,0 @@
-—MPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconManager.h 2cXøhrMPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconManager.h

@@ -1,1 +1,0 @@
-¹;Pods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/GitHub :¸º»r;Pods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/GitHub

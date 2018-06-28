@@ -1,1 +1,0 @@
-¯BPods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h 2cXhrBPods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h

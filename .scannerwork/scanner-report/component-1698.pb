@@ -1,1 +1,0 @@
-¢lPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationIBeaconMinor.h 2cX/hrlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTBeaconOperationIBeaconMinor.h

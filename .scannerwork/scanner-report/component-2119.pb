@@ -1,1 +1,0 @@
-Ç-Pods/ObjectMapper/Sources/EnumOperators.swift 2swiftX\hr-Pods/ObjectMapper/Sources/EnumOperators.swift

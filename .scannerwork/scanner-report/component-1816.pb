@@ -1,1 +1,0 @@
-˜VPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingSensorsPressure.h 2cX;hrVPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTSettingSensorsPressure.h

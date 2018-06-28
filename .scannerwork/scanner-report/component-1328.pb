@@ -1,2 +1,0 @@
-°
-_Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTSettingNearablePower.h 2cXqhr_Pods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTSettingNearablePower.h

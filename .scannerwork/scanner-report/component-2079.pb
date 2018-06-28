@@ -1,1 +1,0 @@
-ŸnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationPowerScheduledAdvertisingPeriod.h 2cX/hrnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationPowerScheduledAdvertisingPeriod.h

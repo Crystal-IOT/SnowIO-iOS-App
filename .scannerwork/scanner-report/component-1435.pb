@@ -1,1 +1,0 @@
-›qPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingPowerSmartPowerModeEnable.h 2cXOhrqPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingPowerSmartPowerModeEnable.h

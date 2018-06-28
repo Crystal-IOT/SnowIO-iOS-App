@@ -1,1 +1,0 @@
-†UPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableOperationName.h 2cX0hrUPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTNearableOperationName.h

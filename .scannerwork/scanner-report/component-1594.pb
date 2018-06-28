@@ -1,1 +1,0 @@
-ºlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconNonStrictMode.h 2cXFhrlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingIBeaconNonStrictMode.h

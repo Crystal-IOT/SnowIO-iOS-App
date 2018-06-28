@@ -1,1 +1,0 @@
-¿fPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceSettingProtocol.h 2cXMhrfPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceSettingProtocol.h

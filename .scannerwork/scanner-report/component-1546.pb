@@ -1,1 +1,0 @@
-ŠhPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingNearableInterval.h 2cXdhrhPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingNearableInterval.h

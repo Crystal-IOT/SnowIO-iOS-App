@@ -1,1 +1,0 @@
-´cPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceStatusReport.h 2cX>hrcPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceStatusReport.h

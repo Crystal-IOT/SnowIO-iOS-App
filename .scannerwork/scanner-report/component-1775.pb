@@ -1,1 +1,0 @@
-ïKPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDefinitions.h 2cXEhrKPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTDefinitions.h

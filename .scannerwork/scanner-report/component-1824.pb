@@ -1,1 +1,0 @@
- cPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationShakeToConnectEnable.h 2cX.hrcPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationShakeToConnectEnable.h

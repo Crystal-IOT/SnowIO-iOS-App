@@ -1,1 +1,0 @@
-·	QPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTDevice.h 2cX*hrQPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTDevice.h

@@ -1,1 +1,0 @@
-ÄuPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceSettingsAdvertiserConnectivity.h 2cXhruPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTDeviceSettingsAdvertiserConnectivity.h

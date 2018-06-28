@@ -1,1 +1,0 @@
-ºJSnow IO/Controllers/DataSource/FirebaseDatabase/Models/InterestModel.swift 2swiftXUhrJSnow IO/Controllers/DataSource/FirebaseDatabase/Models/InterestModel.swift

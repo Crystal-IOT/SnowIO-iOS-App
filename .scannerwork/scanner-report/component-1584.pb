@@ -1,1 +1,0 @@
-°mPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoGeoLocation.h 2cXPhrmPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingDeviceInfoGeoLocation.h

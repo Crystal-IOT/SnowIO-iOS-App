@@ -1,1 +1,0 @@
-¡bPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestFirmwareV4.h 2cXhrbPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTRequestFirmwareV4.h

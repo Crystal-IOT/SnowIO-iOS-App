@@ -1,1 +1,0 @@
-”kPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEstimoteTLMInterval.h 2cX_hrkPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingEstimoteTLMInterval.h

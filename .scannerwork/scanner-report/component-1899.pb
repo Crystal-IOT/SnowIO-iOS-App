@@ -1,1 +1,0 @@
-ënPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationSensorsMotionNotificationEnable.h 2cX0hrnPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTBeaconOperationSensorsMotionNotificationEnable.h

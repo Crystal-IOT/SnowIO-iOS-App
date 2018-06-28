@@ -1,1 +1,0 @@
-·lPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingConnectivityInterval.h 2cXahrlPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/Current/Headers/ESTSettingConnectivityInterval.h

@@ -1,1 +1,0 @@
-ÑOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTOrientationRule.h 2cXhrOPods/EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Headers/ESTOrientationRule.h

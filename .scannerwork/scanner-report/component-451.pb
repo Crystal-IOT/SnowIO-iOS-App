@@ -1,1 +1,0 @@
-ÃFPods/Target Support Files/FirebaseDatabase/FirebaseDatabase-umbrella.h 2cXhrFPods/Target Support Files/FirebaseDatabase/FirebaseDatabase-umbrella.h
