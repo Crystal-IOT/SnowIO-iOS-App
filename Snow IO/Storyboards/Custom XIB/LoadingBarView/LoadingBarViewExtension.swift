@@ -29,7 +29,7 @@ extension UIViewController {
     // MARK : Adjust loading frame XIB on Scroll
     func adjustLoadingOnScroll(loading : LoadingBarView) {
         loading.mView.frame = CGRect(x: 0,
-                                     y: view.safeAreaInsets.top,
+                                     y: self.view.safeAreaInsets.top,
                                      width: self.view.frame.width,
                                      height: self.view.frame.height)
     }

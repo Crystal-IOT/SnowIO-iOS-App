@@ -3,7 +3,7 @@
 "2Rb-zc-ZYT.placeholder" = "Entrez votre email !";
 
 /* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "52s-2r-ySg"; */
-"52s-2r-ySg.normalTitle" = "CONNEXIOn";
+"52s-2r-ySg.normalTitle" = "CONNEXION";
 
 /* Class = "UITextField"; placeholder = "Confirm your password !"; ObjectID = "6Yn-1f-f6v"; */
 "6Yn-1f-f6v.placeholder" = "Confirmer votre mot de passe !";

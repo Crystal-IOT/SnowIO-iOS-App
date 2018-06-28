@@ -16,8 +16,10 @@ class PasswordResetViewController: UITableViewController, UserAuthenticationProt
     // Managers
     var mPrefs = Preferences()
     var mAlert = AlertsManager()
-    
     var mDatasourceManager = SnowIOFirebaseManager()
+    
+    // Utils Variables
+    var isExit = false
     
     // Outlets
     @IBOutlet weak var mEmail: UITextField!
@@ -35,6 +37,13 @@ class PasswordResetViewController: UITableViewController, UserAuthenticationProt
         adjustLoading(loading: loadingView)
     }
     
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        self.isExit = true
+    }
+    
+    
+    // MARK : Crystal-IOT DataSource Methods
     func performBasicAction() {
         removeLoadingView(loadingView: loadingView, tableView: self.tableView)
         mEmail.text = ""
@@ -45,7 +54,8 @@ class PasswordResetViewController: UITableViewController, UserAuthenticationProt
         removeLoadingView(loadingView: loadingView, tableView: self.tableView)
     }
     
-    // MARK : IBAction
+    
+    // MARK : - IBAction
     @IBAction func passwordResetAction(_ sender: Any) {
         if(!NetworkManager().isConnectedToNetwork()) {
             mAlert.showAlert(title: NSLocalizedString("txt_network", comment: ""), message: NSLocalizedString("txt_startNetwork", comment: ""))
@@ -67,10 +77,12 @@ class PasswordResetViewController: UITableViewController, UserAuthenticationProt
         
     // MARK : SCROLL VIEW DELEGATE
     override func scrollViewDidScroll(_ scrollView: UIScrollView) {
-        if (scrollView.contentOffset.y <= 0) {
-            adjustLoading(loading: self.loadingView)
-        } else {
-            adjustLoadingOnScroll(loading: self.loadingView)
+        if(self.isExit == false) {
+            if (scrollView.contentOffset.y <= 0) {
+                adjustLoading(loading: self.loadingView)
+            } else {
+                adjustLoadingOnScroll(loading: self.loadingView)
+            }
         }
     }
 }

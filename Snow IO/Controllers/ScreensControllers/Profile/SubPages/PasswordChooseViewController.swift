@@ -21,9 +21,10 @@ class PasswordChooseViewController: UITableViewController, UITextFieldDelegate, 
     // Managers
     var mAlert = AlertsManager()
     var mPrefs = Preferences()
-    
     var mDatasourceManager = SnowIOFirebaseManager()
     
+    // Utils Variables
+    var isExit = false
 
     // MARK : - APP Life Cycle
     override func viewDidLoad() {
@@ -39,6 +40,7 @@ class PasswordChooseViewController: UITableViewController, UITextFieldDelegate, 
     
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
+        self.isExit = true
         
         if(self.isMovingFromParentViewController) {
             Self.isBacked = true
@@ -181,10 +183,12 @@ class PasswordChooseViewController: UITableViewController, UITextFieldDelegate, 
     
     // MARK : - ScrollView Delegate & Datasources methods
     override func scrollViewDidScroll(_ scrollView: UIScrollView) {
-        if (scrollView.contentOffset.y <= 0) {
-            adjustLoading(loading: self.loadingView)
-        } else {
-            adjustLoadingOnScroll(loading: self.loadingView)
+        if(self.isExit == false) {
+            if (scrollView.contentOffset.y <= 0) {
+                adjustLoading(loading: self.loadingView)
+            } else {
+                adjustLoadingOnScroll(loading: self.loadingView)
+            }
         }
     }
 }

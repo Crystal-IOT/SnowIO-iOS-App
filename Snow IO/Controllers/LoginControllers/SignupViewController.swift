@@ -18,6 +18,7 @@ class SignupViewController: UITableViewController {
     
     // Utils variable
     var user: UserModel?
+    var isExit = false
     
     // Outlets
     @IBOutlet weak var mFirstName: UITextField!
@@ -27,6 +28,7 @@ class SignupViewController: UITableViewController {
     @IBOutlet weak var mPassword: UITextField!
     @IBOutlet weak var mConfirmPassword: UITextField!
 
+    
     // MARK : APP Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -37,9 +39,17 @@ class SignupViewController: UITableViewController {
         adjustLoading(loading: loadingView)
     }
     
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        self.isExit = true
+    }
+    
+    
+    // MARK : Crystal-IOT DataSource Methods
     func cancelBasicAction() {
         removeLoadingView(loadingView: loadingView, tableView: self.tableView)
     }
+  
     
     // MARK : IBAction
     @IBAction func signupAction(_ sender: Any) {
@@ -77,14 +87,18 @@ class SignupViewController: UITableViewController {
         }
     }
     
-    // MARK : SCROLL VIEW DELEGATE
+    
+    // MARK : - ScrollView Delegate
     override func scrollViewDidScroll(_ scrollView: UIScrollView) {
-        if (scrollView.contentOffset.y <= 0) {
-            adjustLoading(loading: self.loadingView)
-        } else {
-            adjustLoadingOnScroll(loading: self.loadingView)
+        if(isExit == false) {
+            if (scrollView.contentOffset.y <= 0) {
+                adjustLoading(loading: self.loadingView)
+            } else {
+                adjustLoadingOnScroll(loading: self.loadingView)
+            }
         }
     }
+    
     
     // MARK: - Navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {

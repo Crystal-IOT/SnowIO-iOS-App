@@ -15,7 +15,6 @@ class SignupProfileViewController: UITableViewController, UserAuthenticationProt
     
     // Managers
     var mAlert = AlertsManager()
-    
     var mDataSourceManager = SnowIOFirebaseManager()
     var mProfile: Array<ProfileModel>!
     
@@ -24,7 +23,8 @@ class SignupProfileViewController: UITableViewController, UserAuthenticationProt
     var userToCreate: UserModel?
     var userPassword: String?
     var isCreated = false
-
+    var isExit = false
+    
     // Outlets
     @IBOutlet weak var mPickerView: UIPickerView!
     
@@ -40,6 +40,12 @@ class SignupProfileViewController: UITableViewController, UserAuthenticationProt
             mPickerView.selectRow(SignupProfileViewController.idProfil!, inComponent: 0, animated: true)
         }
     }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        self.isExit = true
+    }
+    
     
     // MARK : CUSTOM Methods
     func setupView() {
@@ -59,6 +65,7 @@ class SignupProfileViewController: UITableViewController, UserAuthenticationProt
         
         mDataSourceManager.getAllUserProfile()
     }
+   
     
     // MARK : Crystal-IOT DataSource Methods (Authentication protocol)
     func performBasicAction() {
@@ -76,6 +83,7 @@ class SignupProfileViewController: UITableViewController, UserAuthenticationProt
         removeLoadingView(loadingView: loadingView, tableView: self.tableView)
     }
     
+    
     // MARK : Crystal-IOT DataSource Methods (GetProfile protocol)
     func performAction(profileList: Array<ProfileModel>) {
         mProfile = profileList
@@ -89,11 +97,13 @@ class SignupProfileViewController: UITableViewController, UserAuthenticationProt
         removeLoadingView(loadingView: loadingView, tableView: self.tableView)
     }
     
+    
     // MARK : IBAction
     @IBAction func signupAction(_ sender: Any) {
         showLoading(view: self.view, loading: loadingView)
         mDataSourceManager.performSignUp(user: self.userToCreate!, password: userPassword!)
     }
+    
     
     // MARK : UIPickerView Delegate & DataSources Methods
     func numberOfComponents(in pickerView: UIPickerView) -> Int {
@@ -117,12 +127,15 @@ class SignupProfileViewController: UITableViewController, UserAuthenticationProt
         self.userToCreate?.idProfil =  SignupProfileViewController.idProfil
     }
     
+    
     // MARK : SCROLL VIEW DELEGATE
     override func scrollViewDidScroll(_ scrollView: UIScrollView) {
-        if (scrollView.contentOffset.y <= 0) {
-            adjustLoading(loading: self.loadingView)
-        } else {
-            adjustLoadingOnScroll(loading: self.loadingView)
+        if(self.isExit == false) {
+            if (scrollView.contentOffset.y <= 0) {
+                adjustLoading(loading: self.loadingView)
+            } else {
+                adjustLoadingOnScroll(loading: self.loadingView)
+            }
         }
     }
 }

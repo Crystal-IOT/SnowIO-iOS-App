@@ -16,14 +16,15 @@ class LoginViewController: UITableViewController, UserAuthenticationProtocol {
     // Managers
     var mPrefs = Preferences()
     var mAlert = AlertsManager()
-    
     var mDatasourceManager = SnowIOFirebaseManager()
-    /*var mUser: UserModel!
-    var mProfile: ProfileModel!*/
+    
+    // Utils Variables
+    var isExit: Bool?
     
     // Outlets
     @IBOutlet weak var mUsername: UITextField!
     @IBOutlet weak var mPassword: UITextField!
+    
     
     // MARK : APP Life Cycle
     override func viewDidLoad() {
@@ -44,6 +45,12 @@ class LoginViewController: UITableViewController, UserAuthenticationProtocol {
         adjustLoading(loading: loadingView)
     }
     
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        self.isExit = true
+    }
+    
+
     // MARK : Crystal-IOT DataSource Methods
     func performBasicAction() {
         removeLoadingView(loadingView: loadingView, tableView: self.tableView)
@@ -80,10 +87,12 @@ class LoginViewController: UITableViewController, UserAuthenticationProtocol {
     
     // MARK : SCROLL VIEW DELEGATE
     override func scrollViewDidScroll(_ scrollView: UIScrollView) {
-        if (scrollView.contentOffset.y <= 0) {
-            adjustLoading(loading: self.loadingView)
-        } else {
-            adjustLoadingOnScroll(loading: self.loadingView)
+        if(self.isExit == false) {
+            if (scrollView.contentOffset.y <= 0) {
+                adjustLoading(loading: self.loadingView)
+            } else {
+                adjustLoadingOnScroll(loading: self.loadingView)
+            }
         }
     }
     
