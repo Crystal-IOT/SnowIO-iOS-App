@@ -133,12 +133,16 @@ extension SnowIOFirebaseManager {
                 languageChild = AppDelegate.language
             }
             
-            let idProfil = String(describing: myUser.idProfil!)
-            self.databaseRef.child("profil").child(languageChild).child(idProfil).observeSingleEvent(of: .value, with: { snapshot in
-                myProfile = Mapper<ProfileModel>().map(JSONObject: snapshot.value)!
-                self.userProfileProtocol?.performAction(userAccount: myUser, userProfile: myProfile)
-                self.reloadDataProtocol?.reloadInformations(displaying: true)
-            })
+            if(myUser != nil) {
+                let idProfil = String(describing: myUser.idProfil!)
+                self.databaseRef.child("profil").child(languageChild).child(idProfil).observeSingleEvent(of: .value, with: { snapshot in
+                    myProfile = Mapper<ProfileModel>().map(JSONObject: snapshot.value)!
+                    self.userProfileProtocol?.performAction(userAccount: myUser, userProfile: myProfile)
+                    self.reloadDataProtocol?.reloadInformations(displaying: true)
+                })
+            } else {
+                self.userProfileProtocol?.cancelAction()
+            }
         })
     }
     

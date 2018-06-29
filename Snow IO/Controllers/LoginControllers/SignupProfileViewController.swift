@@ -89,6 +89,7 @@ class SignupProfileViewController: UITableViewController, UserAuthenticationProt
         mProfile = profileList
         
         self.mPickerView.reloadAllComponents()
+        enabledScroll()
         removeLoadingView(loadingView: loadingView, tableView: self.tableView)
     }
     
@@ -100,6 +101,7 @@ class SignupProfileViewController: UITableViewController, UserAuthenticationProt
     
     // MARK : IBAction
     @IBAction func signupAction(_ sender: Any) {
+        disabledScroll()
         showLoading(view: self.view, loading: loadingView)
         mDataSourceManager.performSignUp(user: self.userToCreate!, password: userPassword!)
     }

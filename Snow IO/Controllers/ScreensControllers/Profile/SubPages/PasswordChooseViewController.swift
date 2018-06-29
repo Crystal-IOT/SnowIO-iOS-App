@@ -59,6 +59,7 @@ class PasswordChooseViewController: UITableViewController, UITextFieldDelegate, 
     }
     
     @objc func updateUserPassword() {
+        disabledScroll()
         showLoading(view: self.view, loading: loadingView)
         
         // Last Password
@@ -103,6 +104,7 @@ class PasswordChooseViewController: UITableViewController, UITextFieldDelegate, 
     }
     
     func cancelAction() {
+        enabledScroll()
         removeLoadingView(loadingView: loadingView, tableView: self.tableView)
     }
    

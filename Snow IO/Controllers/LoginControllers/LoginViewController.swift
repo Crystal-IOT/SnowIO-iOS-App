@@ -19,7 +19,7 @@ class LoginViewController: UITableViewController, UserAuthenticationProtocol {
     var mDatasourceManager = SnowIOFirebaseManager()
     
     // Utils Variables
-    var isExit: Bool?
+    var isExit = false
     
     // Outlets
     @IBOutlet weak var mUsername: UITextField!
@@ -58,6 +58,7 @@ class LoginViewController: UITableViewController, UserAuthenticationProtocol {
     }
     
     func cancelBasicAction() {
+        enabledScroll()
         removeLoadingView(loadingView: loadingView, tableView: self.tableView)
     }
     
@@ -67,6 +68,8 @@ class LoginViewController: UITableViewController, UserAuthenticationProtocol {
     }
     
     @IBAction func loginAction(_ sender: Any) {
+        disabledScroll()
+        
         if(!NetworkManager().isConnectedToNetwork()) {
             mAlert.showAlert(title: NSLocalizedString("txt_network", comment: ""), message: NSLocalizedString("txt_startNetwork", comment: ""))
         }

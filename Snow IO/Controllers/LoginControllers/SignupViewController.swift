@@ -47,12 +47,15 @@ class SignupViewController: UITableViewController {
     
     // MARK : Crystal-IOT DataSource Methods
     func cancelBasicAction() {
+        enabledScroll()
         removeLoadingView(loadingView: loadingView, tableView: self.tableView)
     }
   
     
     // MARK : IBAction
     @IBAction func signupAction(_ sender: Any) {
+        disabledScroll()
+        
         if(!NetworkManager().isConnectedToNetwork()) {
             mAlert.showAlert(title: NSLocalizedString("txt_network", comment: ""), message: NSLocalizedString("txt_startNetwork", comment: ""))
         }
